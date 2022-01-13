@@ -28,7 +28,7 @@ ___
 
 One important command that you should learn is `scp`, which allows you to copy files between the local client and the server. 
 
-Create a file locally called `WhereAmI.java` and type the command `$ scp WhereAmI.java cs15lwi22ady@ieng6.ucsd.edu:~/`, which moves copies the file to the root directory of the remote device. If succesful, your terminal should look like this:
+Create a file locally called `WhereAmI.java` and type the command `$ scp WhereAmI.java cs15lwi22ady@ieng6.ucsd.edu:~/`, which copies the file to the root directory of the remote device. If successful, your terminal should look like this:
 
 ![Image](image4.png)
 ___
