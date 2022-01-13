@@ -2,7 +2,7 @@
 
 ## 1. Installing Visual Studio Code
 
-Go to [https://code.visualstudio.com/download]() and download Visual Studio Code to your computer. When you first launch the app, the starting screen should look something like this:
+Go to [https://code.visualstudio.com/download](https://code.visualstudio.com/download) and download Visual Studio Code to your computer. When you first launch the app, the starting screen should look something like this:
 
 ![Image](image1.png)
 ___
@@ -12,7 +12,7 @@ Firstly, open a new terminal. Type in the command
 
 `$ ssh cs15lwi22zz@ieng6.ucsd.edu`
 
-but replace `zz` with your personal account name (you can find it at [https://sdacs.ucsd.edu/~icc/index.php]()). 
+but replace `zz` with your personal account name (you can find it at [https://sdacs.ucsd.edu/~icc/index.php](https://sdacs.ucsd.edu/~icc/index.php)). 
 
 Then, you will be prompted to type in your password. Once you are logged in, your terminal should look like this:
 
