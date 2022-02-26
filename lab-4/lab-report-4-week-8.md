@@ -1,4 +1,4 @@
-# Week 6 Lab Report
+# Week 8 Lab Report
 
 My MarkdownParse repository: https://github.com/aaron-truong/markdown-parse
 
