@@ -54,7 +54,7 @@ When run on the implementation we reviewed, the test is also not passed. The tes
 
 ## Questions
 
-1) One way to deal with the case of backticks is to detect any starting backticks with our current index. Then, we move our current index past the ending backtick before looking for open brackets as we did previously. 
+1) One way to deal with the case of backticks is to detect any starting backticks with our current index. Then, we add another character search for an ending backtick. We move our current index past the ending backtick before looking for open brackets as we did previously. 
 
 2) One way to deal with the case of escaped brackets is simply to check whether the character before `nextOpenBracket` and `nextCloseBracket` are a `\` or not. If they are, then we can move past these escaped characters and restart the process as usual.
 
